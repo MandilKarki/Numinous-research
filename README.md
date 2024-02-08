@@ -16,4 +16,7 @@ LLMOPS - https://arize.com/blog-course/large-language-model-llm-deployment/
 https://medium.com/@aigeek_/best-practices-for-deploying-large-language-models-llms-in-production-fdc5bf240d6a
 
 
+https://betterprogramming.pub/frameworks-for-serving-llms-60b7f7b23407
+
+
 
