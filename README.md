@@ -9,3 +9,9 @@ https://www.e2enetworks.com/blog/a-comprehensive-guide-to-llms-inference-and-ser
 
 infernce topics - https://developer.nvidia.com/blog/mastering-llm-techniques-inference-optimization/
 
+
+
+
+LLMOPS - https://arize.com/blog-course/large-language-model-llm-deployment/
+
+
