@@ -3,4 +3,5 @@
 December 6–7, 2023. ©2023 Association for Computational Linguistics
 756MetricX-23: The Google Submission to the WMT 2023
 Metrics Shared Task
+metricsX - https://huggingface.co/google/metricx-23-xxl-v2p0
 
