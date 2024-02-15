@@ -41,3 +41,10 @@ Table Of Contents
 
 6)https://betterprogramming.pub/frameworks-for-serving-llms-60b7f7b23407
 
+
+
+
+
+Helpful videos - 
+📘 Ultimate Guide To Scaling ML Models - Megatron-LM | ZeRO | DeepSpeed | Mixed Precision - https://www.youtube.com/watch?v=hc0u4avAkuM
+
