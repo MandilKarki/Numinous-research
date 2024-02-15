@@ -59,6 +59,9 @@ Arize AI evaluates LLM applications through extensive observability into LLM tra
 9) Deepchecks - Deepchecks stands out as it is geared more towards evaluating the LLM itself, rather than LLM systems/applications, its open-source offering is unique as it focuses heavily on the dashboards and the visualization UI, which makes it easy for users to visualize evaluation results. https://github.com/deepchecks/deepchecks
 
 
+Microsoft article - How to Evaluate LLMs: A Complete Metric Framework - https://www.microsoft.com/en-us/research/group/experimentation-platform-exp/articles/how-to-evaluate-llms-a-complete-metric-framework/
+
+Papers
 1) Results of WMT23 Metrics Shared  Task: Metrics might be Guilty but References are not Innocent - https://www2.statmt.org/wmt23/pdf/2023.wmt-1.51.pdf
 2) https://aclanthology.org/2023.wmt-1.63.pdf - Proceedings of the Eighth Conference on Machine Translation (WMT), pages 756–767
 December 6–7, 2023. ©2023 Association for Computational Linguistics
