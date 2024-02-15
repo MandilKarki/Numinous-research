@@ -1,5 +1,12 @@
 # Numinous-research
 
+
+
+Table Of Contents
+
+1) Microsoft Deepspeed
+2) 🚀 LLM Inference Performance Engineering: Best Practices
+
 1) Deepspeed - 
   Fastgen - DeepSpeed FastGen, part of Microsoft's DeepSpeed suite, is a tool designed to optimize the text generation process in large language models (LLMs). It significantly enhances efficiency by reducing memory usage and latency, enabling faster, cost-effective model deployment. Notably scalable, FastGen excels in multi-GPU environments, making it ideal for high-demand applications. As an open-source solution, it integrates seamlessly with DeepSpeed's other features, such as model parallelism, to offer a robust, adaptable framework for a wide range of AI applications, from conversational AI to complex content generation.
   
@@ -13,6 +20,9 @@
   - https://github.com/microsoft/DeepSpeed/tree/master/blogs/deepspeed-fastgen
   
   optimization strategies for GPU utilization in LLM inference, focusing on the integration of Accelerate and DeepSpeed - https://preemo.medium.com/squeeze-more-out-of-your-gpu-for-llm-inference-a-tutorial-on-accelerate-deepspeed-610fce3025fd
+
+2) 🚀 LLM Inference Performance Engineering: Best Practices
+    This blog from Databricks offers valuable insights and best practices for optimizing Large Language Model (LLM) inference. It covers practical guidelines for model selection, deployment hardware choices, and discusses key performance metrics like time to first token and output token speed. The blog emphasizes the importance of balancing throughput and latency, explores challenges in LLM inference, and suggests solutions including operator fusion, quantization, and parallelization - https://www.databricks.com/blog/llm-inference-performance-engineering-best-practices
 
 
 
@@ -30,3 +40,4 @@
 
 
 6)https://betterprogramming.pub/frameworks-for-serving-llms-60b7f7b23407
+
