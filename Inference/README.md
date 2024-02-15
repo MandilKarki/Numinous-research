@@ -13,6 +13,10 @@ DeepSpeed MII (Model Implementations for Inference) is an extension of the DeepS
 Explore DeepSpeed-FastGen's integration with MII and DeepSpeed-Inference for high-throughput, efficient text generation in large language models, focusing on speed and scalability. 
 - https://github.com/microsoft/DeepSpeed/tree/master/blogs/deepspeed-fastgen
 
+optimization strategies for GPU utilization in LLM inference, focusing on the integration of Accelerate and DeepSpeed - https://preemo.medium.com/squeeze-more-out-of-your-gpu-for-llm-inference-a-tutorial-on-accelerate-deepspeed-610fce3025fd
+
+
+
 
 
 Inference - 
