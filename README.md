@@ -8,18 +8,22 @@ Introduction
 Numinous Research is a comprehensive project aimed at advancing the field of AI through innovative research in various domains such as Agents, Computer Vision, Data Analysis, Evaluations, Fine-tuning, Inference, and more.
 Contents
 
-    Agents: Contains intelligent agents designed for various tasks and environments.
-    ComputerVision: Includes algorithms and models related to image processing and computer vision.
-    DATA: Data sets and scripts for data manipulation and analysis.
-    Evaluations: Evaluation scripts and benchmarks for model performance.
-    examples: Sample code and basic usage examples for quick start.
-    Finetuning: Scripts and guidelines for fine-tuning AI models.
-    Inference: Inference engines and models ready for deployment.
-    LLMOPS: Operations and utilities for working with large language models.
-    Multimodal: Resources for multimodal AI research combining text, image, and sound.
-    NLP_text: Natural Language Processing tools and models specifically for text analysis.
-    Sound: Audio processing models and tools.
+Dive into our comprehensive AI Research Repository, where we explore the cutting edge of AI across multiple domains:
 
+    LLMOPS: Operations and orchestration of Large Language Models.
+    Agents: Development of autonomous agents powered by LLMs.
+    Data: Custom dataset generation and management for LLM training.
+    Evaluations: Rigorous testing frameworks for model performance assessment.
+    Examples: Real-world applications and demonstrations of LLM capabilities.
+    FineTuning: Techniques and strategies for model refinement and specialization.
+    Image: Advancements in image processing, including text-to-image synthesis.
+    Inference: Efficient deployment methods for LLM inference tasks.
+    Multimodal: Integration of multiple data types for enriched model understanding.
+    NLP-Core: Core natural language processing tools and experiments.
+    RAG: Retrieval-augmented generation for enhanced informational depth.
+    Speech: Speech recognition and synthesis experiments with LLMs.
+
+Explore each folder to uncover the full potential of AI and its applications. 🚀
 
 Quick Start
 
