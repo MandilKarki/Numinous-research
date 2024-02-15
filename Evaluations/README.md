@@ -46,6 +46,7 @@ These metrics make up the final RAGAs score. DeepEval and RAGAs have very simila
 
 
 
+
 6) Arize AI Phoenix -
 Arize AI evaluates LLM applications through extensive observability into LLM traces. However it is extremely limited as it only offers three evaluation criteria:
 
@@ -55,7 +56,7 @@ Arize AI evaluates LLM applications through extensive observability into LLM tra
 
 7) Truelens -https://github.com/truera/trulens - Evaluation and Tracking for LLM Experiments 
 8) Can You Use LLMs as Evaluators? An LLM Evaluation Framework - https://medium.com/@dan_43009/can-you-use-llms-as-evaluators-an-llm-evaluation-framework-8681b400b110
-
+9) Deepchecks - Deepchecks stands out as it is geared more towards evaluating the LLM itself, rather than LLM systems/applications, its open-source offering is unique as it focuses heavily on the dashboards and the visualization UI, which makes it easy for users to visualize evaluation results. https://github.com/deepchecks/deepchecks
 
 
 1) Results of WMT23 Metrics Shared  Task: Metrics might be Guilty but References are not Innocent - https://www2.statmt.org/wmt23/pdf/2023.wmt-1.51.pdf
