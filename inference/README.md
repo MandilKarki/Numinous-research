@@ -8,7 +8,7 @@ Table Of Contents
 2) 🚀 LLM Inference Performance Engineering: Best Practices
 3) 🤗 🤗 🤗 🤗  Huggingface Inference Endpoints
    
-
+Introduction
 1) Deepspeed - 
   Fastgen - DeepSpeed FastGen, part of Microsoft's DeepSpeed suite, is a tool designed to optimize the text generation process in large language models (LLMs). It significantly enhances efficiency by reducing memory usage and latency, enabling faster, cost-effective model deployment. Notably scalable, FastGen excels in multi-GPU environments, making it ideal for high-demand applications. As an open-source solution, it integrates seamlessly with DeepSpeed's other features, such as model parallelism, to offer a robust, adaptable framework for a wide range of AI applications, from conversational AI to complex content generation.
   
