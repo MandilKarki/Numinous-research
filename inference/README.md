@@ -28,6 +28,15 @@ Introduction
 
 
 3) 🤗 🤗 🤗🤗  Huggingface Inference Endpoints
+
+
+
+
+![creation_flow](https://github.com/MandilKarki/Numinous-research/assets/71919875/5193d857-0e1c-4b83-8e03-894227489345)
+
+
+
+
    
 
 
