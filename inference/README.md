@@ -6,6 +6,8 @@ Table Of Contents
 
 1) Microsoft Deepspeed
 2) 🚀 LLM Inference Performance Engineering: Best Practices
+3) 🤗 🤗 🤗 🤗  Huggingface Inference Endpoints
+   
 
 1) Deepspeed - 
   Fastgen - DeepSpeed FastGen, part of Microsoft's DeepSpeed suite, is a tool designed to optimize the text generation process in large language models (LLMs). It significantly enhances efficiency by reducing memory usage and latency, enabling faster, cost-effective model deployment. Notably scalable, FastGen excels in multi-GPU environments, making it ideal for high-demand applications. As an open-source solution, it integrates seamlessly with DeepSpeed's other features, such as model parallelism, to offer a robust, adaptable framework for a wide range of AI applications, from conversational AI to complex content generation.
@@ -25,7 +27,8 @@ Table Of Contents
     This blog from Databricks offers valuable insights and best practices for optimizing Large Language Model (LLM) inference. It covers practical guidelines for model selection, deployment hardware choices, and discusses key performance metrics like time to first token and output token speed. The blog emphasizes the importance of balancing throughput and latency, explores challenges in LLM inference, and suggests solutions including operator fusion, quantization, and parallelization - https://www.databricks.com/blog/llm-inference-performance-engineering-best-practices
 
 
-
+3) 🤗 🤗 🤗🤗  Huggingface Inference Endpoints
+   
 
 
 2) Rayserve - https://docs.ray.io/en/latest/serve/index.html https://www.e2enetworks.com/blog/a-comprehensive-guide-to-llms-inference-and-serving-2
