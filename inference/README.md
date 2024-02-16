@@ -37,6 +37,13 @@ Introduction
 
 
 
+Three options 
+![endpoint_types](https://github.com/MandilKarki/Numinous-research/assets/71919875/f746d723-517c-43ab-99c1-6ae5c23a6f26)
+
+
+
+
+
    
 
 
