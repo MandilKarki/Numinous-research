@@ -7,3 +7,4 @@ Microsoft Autogen: Delving into the advanced autoregressive text generation tech
 
 LangChain Agents: Investigating the LangChain framework for constructing agents that combine language models with knowledge retrieval and reasoning, pushing the boundaries of what LLM agents can achieve
 
+Autogen studio - 
