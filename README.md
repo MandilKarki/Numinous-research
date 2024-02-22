@@ -21,6 +21,4 @@ Welcome to the Numinous Research Project repository. This hub is dedicated to th
 
 To embark on your AI research journey with our project, clone the repository and navigate to any module of interest:
 
-```bash
-git clone [your-repository-url]
-cd [preferred-directory]
+
