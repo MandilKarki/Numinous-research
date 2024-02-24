@@ -13,3 +13,7 @@ This space is dedicated to the innovative world of data crafting specifically fo
     Discussion Forum: Share insights, ask questions, and collaborate with fellow data enthusiasts.
 
 🚀 Get Started: Dive in and start crafting data that powers the next generation of AI!
+
+llm datahub - LLMDataHub: Awesome Datasets for LLM Training 
+https://github.com/Zjh-819/LLMDataHub?tab=readme-ov-file
+
