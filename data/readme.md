@@ -17,3 +17,6 @@ This space is dedicated to the innovative world of data crafting specifically fo
 llm datahub - LLMDataHub: Awesome Datasets for LLM Training 
 https://github.com/Zjh-819/LLMDataHub?tab=readme-ov-file
 
+alpaca data cleaned - https://github.com/gururise/AlpacaDataCleaned
+
+
