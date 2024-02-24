@@ -3,7 +3,7 @@ The Evaluations folder contains an array of assessment frameworks and metrics de
 Table of Contents -
 1) DeepEval
 2) 📊  Evals from OpenAI
-   
+3) LLM Autoeval - https://github.com/mlabonne/llm-autoeval
 
    
 Introduction
