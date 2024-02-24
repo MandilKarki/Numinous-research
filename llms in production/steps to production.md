@@ -12,3 +12,6 @@ gather data and insight
 launch the mvp in the market
 
     3.3)Business product - robust , reliable, iterative release cycles - customer in the loop . full fledged features.
+
+
+![alt text](image.png)
