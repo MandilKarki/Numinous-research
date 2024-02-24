@@ -25,5 +25,8 @@ alpaca data cleaned - https://github.com/gururise/AlpacaDataCleaned
 
 Articles - https://www.linkedin.com/pulse/ahead-ai-8-latest-open-source-llms-datasets-sebastian-raschka-phd/
 
+cosmopedia - https://github.com/huggingface/cosmopedia
+
+
 
 
